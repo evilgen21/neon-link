@@ -1,7 +1,7 @@
 # NEON LINK - ONE LINE PUZZLE
 Это медитативная головоломка, в которой нужно соединить все клетки поля одной непрерывной линией, огибая препятствия. Игра сочетает в себе расслабляющий геймплей с красивой эстетикой.
 
-<img src="https://github.com/evilgen21/neon_flow/blob/main/1.png" width="194" height="420">> <img src="https://github.com/evilgen21/neon_flow/blob/main/2.png" width="194" height="420">> <img src="https://github.com/evilgen21/neon_flow/blob/main/3.png" width="194" height="420">> <img src="https://github.com/evilgen21/neon_flow/blob/main/4.png" width="194" height="420">>
+<img src="https://github.com/evilgen21/neon-link/blob/main/1.jpg" width="194" height="420">> <img src="https://github.com/evilgen21/neon-link/blob/main/2.jpg" width="194" height="420">> <img src="https://github.com/evilgen21/neon-link/blob/main/3.jpg" width="194" height="420">> <img src="https://github.com/evilgen21/neon-link/blob/main/4.jpg" width="194" height="420">>
   
 **Ключевые особенности:**
 - 221 уровень с постепенным нарастанием сложности
